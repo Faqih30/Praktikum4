@@ -5,7 +5,7 @@
 - Disini saya menggunakan Aplikasi Code Editor Visual Studio Code
 
 - Flowchart
-    ![img](foto/Fowchart.png)
+    ![img](foto/Flowchart.png)
 - Coding
     ![img](foto/Coding.png)
 
