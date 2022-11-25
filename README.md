@@ -7,7 +7,9 @@
 - Flowchart
     ![img](foto/Flowchart.png)
 - Coding
-    ![img](foto/Coding.png)
+   
+    ![img](foto/Coding.PNG)
+
 
 >>Proses pengerjaan coding ini menggunakan bahasa Python
 >>Ruang Lingkup program menggunakan beberapa methode
@@ -20,5 +22,5 @@
     - Fungsi
 
 - Hasil program
-    ![img](foto/hasil.png)
+    ![img](foto/hasil.PNG)
  
